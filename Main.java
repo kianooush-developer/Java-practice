@@ -4,9 +4,9 @@ import java.util.ArrayList;
 
 public class Main
 {
-	public static int max(int a , int b) 
+	public static int min(int a , int b) 
 	{
-		if (a>b) 
+		if (a<b) 
 		{
 			return a ;
 		}
@@ -17,7 +17,7 @@ public class Main
 	}
 	public static void main(String[] args) 
 	{
-		int max = max(23,56);
-		System.out.println("Max:"+max);
+		int result = min(23,56);
+		System.out.println("Min:"+result);
 	}
 }
