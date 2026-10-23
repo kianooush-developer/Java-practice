@@ -20,6 +20,11 @@ public class SportsCar extends Vehicle
 			System.out.println("No turbo available.");
 		}
 	}
+	@Override 
+	public void move() 
+	{
+		System.out.println("SportsCar is zooming at " +speed+ "km/h ");
+	}
 	public static void main(String[] args)
 	{
 		SportsCar myCar = new SportsCar("Red",180,true);
