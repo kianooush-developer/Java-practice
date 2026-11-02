@@ -22,12 +22,12 @@ My Java learning journey with Kianooush.
 - Git & GitHub
   
 ## Projects
- Mini Game (Classes: Character , Hero , Enemy )
- Abstraction Practice  (Animal , Dog )
- Phone Book ** (Hash Map Practice)
- Store Inventory **(Hash Map Practice )
-** Vehicle & Sports Car ** (Inheritance)
-** Car & Student ** (Encapsulation)
+- Mini Game (Classes: Character , Hero , Enemy )
+-  Abstraction Practice  (Animal , Dog )
+- Phone Book  (Hash Map Practice)
+- Store Inventory (Hash Map Practice)  
+- Store Inventory (Hash Map Practice )
+- Car & Student  (Encapsulation)
 ** Arraylist Practice **
 ## Contact 
 - Email: [mohammadhamedtajik@gmail.com]
