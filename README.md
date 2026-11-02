@@ -26,9 +26,10 @@ My Java learning journey with Kianooush.
 -  Abstraction Practice  (Animal , Dog )
 - Phone Book  (Hash Map Practice)
 - Store Inventory (Hash Map Practice)  
-- Store Inventory (Hash Map Practice )
 - Car & Student  (Encapsulation)
-** Arraylist Practice **
+- Arraylist Practice
+
+ 
 ## Contact 
-- Email: [mohammadhamedtajik@gmail.com]
+- Email: [mohammadhamedtajik@gmail.com](mailto:mohammadhamedtajik@gmail.com)
 - GitHub: [@kianooush-developer](https://github.com/kianooush-developer)
