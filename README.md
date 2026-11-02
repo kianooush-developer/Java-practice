@@ -11,7 +11,7 @@ My Java learning journey with Kianooush.
 - break and continue
 - Arrays and ArrayList
 - Methods
-- Object-Oriented Programming (OOP) **
+- Object-Oriented Programming (OOP) 
 - Abstraction
 - Collections (Hash Map)
 - Generics
@@ -22,10 +22,10 @@ My Java learning journey with Kianooush.
 - Git & GitHub
   
 ## Projects
-** Mini Game **(Classes: Character , Hero , Enemy )
-** Abstraction Practice ** (Animal , Dog )
-** Phone Book ** (Hash Map Practice)
-** Store Inventory **(Hash Map Practice )
+ Mini Game (Classes: Character , Hero , Enemy )
+ Abstraction Practice  (Animal , Dog )
+ Phone Book ** (Hash Map Practice)
+ Store Inventory **(Hash Map Practice )
 ** Vehicle & Sports Car ** (Inheritance)
 ** Car & Student ** (Encapsulation)
 ** Arraylist Practice **
