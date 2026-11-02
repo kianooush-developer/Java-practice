@@ -12,14 +12,20 @@ My Java learning journey with Kianooush.
 - Arrays and ArrayList
 - Methods
 - Object-Oriented Programming (OOP) **
+- Abstraction
+- Collections (Hash Map)
+- Generics
 
 ## 🛠️ Tools
 - Java 17
 - Eclipse IDE
 - Git & GitHub
+  
 ## Projects
 ** Mini Game **(Classes: Character , Hero , Enemy )
 ** Abstraction Practice ** (Animal , Dog )
+** Phone Book ** (Hash Map Practice)
+** Store Inventory **(Hash Map Practice )
 ** Vehicle & Sports Car ** (Inheritance)
 ** Car & Student ** (Encapsulation)
 ** Arraylist Practice **
