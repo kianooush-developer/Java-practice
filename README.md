@@ -9,19 +9,20 @@ My Java learning journey with Kianooush.
 - Conditionals (if/else)
 - Loops (for, while, do-while)
 - break and continue
-- Arrays (in progress)
+- Arrays and ArrayList
+- Methods
+- Object-Oriented Programming (OOP) **
 
 ## 🛠️ Tools
 - Java 17
 - Eclipse IDE
 - Git & GitHub
-
-## 📌 Projects
-- Calculator
-- Leap Year Checker
-- Number Sorter
-- Even/Odd Checker
-- And more coming...
-
-## 📞 Contact
+## Projects
+** Mini Game **(Classes: Character , Hero , Enemy )
+** Abstraction Practice ** (Animal , Dog )
+** Vehicle & Sports Car ** (Inheritance)
+** Car & Student ** (Encapsulation)
+** Arraylist Practice **
+## Contact 
+- Email: [mohammadhamedtajik@gmail.com]
 - GitHub: [@kianooush-developer](https://github.com/kianooush-developer)
