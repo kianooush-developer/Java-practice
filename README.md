@@ -11,18 +11,25 @@ My Java learning journey with Kianooush.
 - break and continue
 - Arrays and ArrayList
 - Methods
-- Object-Oriented Programming (OOP) **
+- Object-Oriented Programming (OOP) 
+- Abstraction
+- Collections (Hash Map)
+- Generics
 
 ## 🛠️ Tools
 - Java 17
 - Eclipse IDE
 - Git & GitHub
+  
 ## Projects
-** Mini Game **(Classes: Character , Hero , Enemy )
-** Abstraction Practice ** (Animal , Dog )
-** Vehicle & Sports Car ** (Inheritance)
-** Car & Student ** (Encapsulation)
-** Arraylist Practice **
+- Mini Game (Classes: Character , Hero , Enemy )
+-  Abstraction Practice  (Animal , Dog )
+- Phone Book  (Hash Map Practice)
+- Store Inventory (Hash Map Practice)  
+- Car & Student  (Encapsulation)
+- Arraylist Practice
+
+ 
 ## Contact 
-- Email: [mohammadhamedtajik@gmail.com]
+- Email: [mohammadhamedtajik@gmail.com](mailto:mohammadhamedtajik@gmail.com)
 - GitHub: [@kianooush-developer](https://github.com/kianooush-developer)
