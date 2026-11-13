@@ -28,7 +28,8 @@ My Java learning journey with Kianooush.
 - Store Inventory (Hash Map Practice)  
 - Car & Student  (Encapsulation)
 - Arraylist Practice
-
+- Game Login Exception Handling
+-  try catch 
  
 ## Contact 
 - Email: [mohammadhamedtajik@gmail.com](mailto:mohammadhamedtajik@gmail.com)
