@@ -18,6 +18,7 @@ My Java learning journey with Kianooush.
 - Exception Handling
 - try Catch
 - File I/O
+- Database & JDBC
 
 
 ## 🛠️ Tools
@@ -36,6 +37,7 @@ My Java learning journey with Kianooush.
 -  try catch
 -  File I/O Practice (File Writer)
 -  Save Contacts
+-  Database Connection (JDBC & SQLite Practice)
  
 ## Contact 
 - Email: [mohammadhamedtajik@gmail.com](mailto:mohammadhamedtajik@gmail.com)
