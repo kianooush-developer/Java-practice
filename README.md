@@ -15,6 +15,10 @@ My Java learning journey with Kianooush.
 - Abstraction
 - Collections (Hash Map)
 - Generics
+- Exception Handling
+- try Catch
+- File I/O
+
 
 ## 🛠️ Tools
 - Java 17
@@ -31,6 +35,7 @@ My Java learning journey with Kianooush.
 - Game Login Exception Handling
 -  try catch
 -  File I/O Practice (File Writer)
+-  Save Contacts
  
 ## Contact 
 - Email: [mohammadhamedtajik@gmail.com](mailto:mohammadhamedtajik@gmail.com)
